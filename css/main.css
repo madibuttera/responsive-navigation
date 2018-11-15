@@ -22,9 +22,9 @@ body {
 }
 
 header {
-padding: .5rem 0;
-background-color: #ccc;
-text-align: center;
+  padding: .5rem 0;
+  background-color: #ccc;
+  text-align: center;
 }
 
 h1 {
@@ -66,7 +66,7 @@ nav a:hover {
 @media only screen and (min-width: 38em) {
 
   html {
-    font-size: 100%;
+    font-size: 110%;
     line-height: 1.4;
   }
 
